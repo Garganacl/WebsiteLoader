@@ -1,5 +1,5 @@
-# WebsiteLoader
-Simple HTML, CSS, JS Website gif loading screen
+# Simple gif Website Loading screen
+### HTML, CSS, JS
 
 
 
