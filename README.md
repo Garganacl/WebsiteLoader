@@ -1,5 +1,5 @@
-# Simple gif Website Loading screen
-### HTML, CSS, JS
+# Simple gif Website Loading screen in HTML, CSS, JS
+
 
 
 
