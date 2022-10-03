@@ -40,7 +40,7 @@ Simple HTML, CSS, JS Website gif loading screen
 
 
 ```
-<div class="containerr" style="background: /*Background color you want*/;">
+<div class="containerr" style="background: /*Background color for the page while its loadingt*/;">
 <img class="centered" src="Path/To/Gif" alt=""></div>
 ```
 
