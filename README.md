@@ -38,9 +38,9 @@ Put the script and the style elements inside the end of the <head> div.
   ### Put all the Div elements inside the beginning of the <body> Div>
 
 
-```<div class="containerr" style="background: /*Background color you want*/;">
-    <img class="centered" src="Path/To/Gif" alt="">
-  </div>
+```
+<div class="containerr" style="background: /*Background color you want*/;">
+<img class="centered" src="Path/To/Gif" alt=""></div>
 ```
 
 
