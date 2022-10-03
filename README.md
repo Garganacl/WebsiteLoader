@@ -36,7 +36,7 @@
 ```
 
   
-### Put all the Div elements inside the beginning of the body Div.
+### Put the Div/img elements inside the beginning of the body Div.
 
 
 ```
