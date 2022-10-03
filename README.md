@@ -39,7 +39,7 @@ Put the script and the style elements inside the end of the <head> div.
 
 ```<div class="containerr" style="background: /*Background color you want*/;">
     <img class="centered" src="Path/To/Gif" alt="">
-  </div>```
+  </div>
 ```
 
 
