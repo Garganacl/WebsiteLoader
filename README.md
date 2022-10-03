@@ -31,7 +31,8 @@ Put the script and the style elements inside the end of the <head> div.
       transform: -moz-translate(-50%, -50%);
       transform: -ms-translate(-50%, -50%);
     }
-  </style>```
+  </style>
+
   
   Put all the Div elements inside the beginning of the <body> Div>
 
@@ -39,7 +40,7 @@ Put the script and the style elements inside the end of the <head> div.
 ```<div class="containerr" style="background: /*Background color you want*/;">
     <img class="centered" src="Path/To/Gif" alt="">
   </div>```
-
+```
 
 
 
