@@ -5,7 +5,8 @@ Simple HTML, CSS, JS Website gif loading screen
 
 ### Put the script and the style elements inside the end of the <head> div.
 
-```<script>
+```
+    <script>
     $(window).on('load', function () {
       $(".containerr").fadeOut("slow");
     });
