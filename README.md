@@ -6,12 +6,12 @@ Simple HTML, CSS, JS Website gif loading screen
 ### Put the script and the style elements inside the end of the <head> div.
 
 ```
-    <script>
+<script>
     $(window).on('load', function () {
       $(".containerr").fadeOut("slow");
     });
-  </script>
-  <style>
+</script>
+<style>
     .containerr {
       position: fixed;
       left: 0px;
@@ -32,11 +32,11 @@ Simple HTML, CSS, JS Website gif loading screen
       transform: -moz-translate(-50%, -50%);
       transform: -ms-translate(-50%, -50%);
     }
-  </style>
+</style>
 ```
 
   
-  ### Put all the Div elements inside the beginning of the <body> Div.
+### Put all the Div elements inside the beginning of the <body> Div.
 
 
 ```
