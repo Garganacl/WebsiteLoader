@@ -32,6 +32,7 @@ Put the script and the style elements inside the end of the <head> div.
       transform: -ms-translate(-50%, -50%);
     }
   </style>
+```
 
   
   ## Put all the Div elements inside the beginning of the <body> Div>
