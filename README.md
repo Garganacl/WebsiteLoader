@@ -44,4 +44,4 @@ Put the script and the style elements inside the end of the <head> div.
 
 
 
-![example](https://i.ibb.co/3BDzhPX/chrome-y-Uw8r6-Oqmr.gif)
+![example](https://i.ibb.co/6t6m7Sj/chrome-3o5-EZcih-WT.gif)
